@@ -11,7 +11,7 @@
 ### Portfolio
 
  The portfolio will consist of 5 stocks, which we will try to choose from different sectors. We chose MSFT (Microsoft), AMZN (Amazon),
- BRK.B (Berkshire Hathaway B), XOM (Exxon Mobile), and K (Kellogg's). While the group's objective was to choose a different stock from different sectors, they were chosen at random one at a time from each group member. The two stocks with the closest relation would probably be Microsoft and Amazon, because they both overlap in the technolog sector, even though Amazon's primary business is warehousing and logistics.
+ BRK.B (Berkshire Hathaway B), XOM (Exxon Mobile), and K (Kellogg's). The group's objective was to choose a different stock from different sectors. The stocks were chosen at random one at a time from each group member. The two with the closest relation would probably be Microsoft and Amazon, because they both overlap in the technology sector, even though Amazon's primary business is warehousing and logistics.
 
 ### Hypothesis
 
