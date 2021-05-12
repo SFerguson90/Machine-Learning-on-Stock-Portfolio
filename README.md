@@ -6,7 +6,7 @@
 
 ### Data
 
- Our data will be pulled from the Alpaca API, using a basic function which takes in a start date, end date, and ticker symbol as parameters. This can be found in the Data_Acquisition file.
+ Our data will be pulled from the Alpaca API, using a function which takes in a start date, end date, and ticker symbol as parameters. This can be found in the Data_Acquisition file.
 
 ### Portfolio
 
